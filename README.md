@@ -56,11 +56,13 @@ This project uses machine learning to **predict the correct NSAP scheme** for a 
 ## 📊 Results
 
 ✅ **Confusion Matrix:**
+confustion_matrix.png
 
 ✅ **Sample Predictions:**
+Welfare_Wise _test_input
 
 ✅ **Results Sample Predictions:**
-
+result_prediction.png
 
 ---
 
