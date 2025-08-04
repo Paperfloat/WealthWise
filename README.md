@@ -59,7 +59,7 @@ This project uses machine learning to **predict the correct NSAP scheme** for a 
 confustion_matrix.png
 
 ✅ **Sample Predictions:**
-Welfare_Wise _test_input
+test_input.csv
 
 ✅ **Results Sample Predictions:**
 result_prediction.png
